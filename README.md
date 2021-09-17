@@ -1,0 +1,2 @@
+# Lifetime_of_technology
+様々な技術が何年ぐらい続いたかを集める
